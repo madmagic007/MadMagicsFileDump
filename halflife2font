@@ -1,8 +1,7 @@
 @font-face {
-    font-family: 'halflife2regular';
+    font-family: 'halflife2font';
     src: url('https://github.com/madmagic007/MadMagicsFileDump/raw/main/halflife2-webfont.woff2') format('woff2'),
          url('https://github.com/madmagic007/MadMagicsFileDump/raw/main/halflife2-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
